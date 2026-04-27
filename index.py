@@ -2,8 +2,8 @@ import requests
 import pandas as pd
 
 # --- UPDATE THESE WITH YOUR APP DETAILS ---
-CLIENT_ID = 'PASTE_YOUR_APP_KEY_HERE'
-CLIENT_SECRET = 'PASTE_YOUR_APP_SECRET_HERE'
+CLIENT_ID = 'YmkXsKPWuiGu4rN4ENhuv5NYiGepZrVCVAdH1AtU1FYRk0nYE'
+CLIENT_SECRET = 'AiN96hEiuVkCUR7VOAnOG9dxJbn0voGAkymgCh4KTVeY1GNm21RoXltA1fhD8ls5'
 REDIRECT_URI = 'https://127.0.0.1'
 
 def get_market_data(ticker, access_token):
